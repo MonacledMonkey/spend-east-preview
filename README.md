@@ -1,7 +1,7 @@
-# Spend East preview artifacts
+# Spend East Preview
 
-Public review artifacts for Spend East mobile Issue #1.
+Public GitHub Pages preview for the private `MonacledMonkey/spend-east-mobile` implementation repo.
 
-Current PR head mirrored from `MonacledMonkey/spend-east-mobile` branch `issue-1-dashboard-redesign`: `b4c50a5bddc8aed6211b110cfc3cc8d6c3ffb4f6`.
+Live URL: https://monacledmonkey.github.io/spend-east-preview/
 
-Visual/deployment approval is not claimed here. Andy must explicitly approve after viewing current artifacts before release/deploy claims proceed.
+This repo exists because the implementation repo is private and GitHub Pages is not enabled for it on the current plan. Do not treat private-repo Pages or authenticated raw links as reviewer-visible evidence.
